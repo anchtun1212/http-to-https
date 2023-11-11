@@ -7,9 +7,14 @@ Configure Cloudflare, FREE Let's Encrypt SSL/TLS certificate, NGINX and Apache w
 - wireshark - https://www.wireshark.org/
 - Install and Configure Wireshark - https://linuxhint.com/install-configure-wireshark-ubuntu-22-04/
 - MD5 Hash Generator - https://www.md5hashgenerator.com/
+- MD5 File - https://md5file.com/calculator
 
 ## Some Commands
 
 |    Command       |     Description          |
 | ------------- | ------------- |
 | "md5sum file.txt" | Returns md5 hash of the file |
+| "sudo snap install md5-console" | Install md5-console |
+| "md5-console -f file.txt" | Returns md5 hash of the file |
+| "md5-console -s "hello" | Returns md5 hash of the String: hello |
+
