@@ -7,8 +7,8 @@ Configure Cloudflare, FREE Let's Encrypt SSL/TLS certificate, NGINX and Apache w
 - wireshark - https://www.wireshark.org/
 - Install and Configure Wireshark - https://linuxhint.com/install-configure-wireshark-ubuntu-22-04/
 - MD5 Hash Generator - https://www.md5hashgenerator.com/
-- MD5 File - https://md5file.com/calculator
-- SHA Hash - https://passwordsgenerator.net/sha256-hash-generator/
+- MD5 File Generator - https://md5file.com/calculator
+- SHA Hash Generator - https://passwordsgenerator.net/sha256-hash-generator/
 
 ## Some Commands
 
