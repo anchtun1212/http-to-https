@@ -17,4 +17,7 @@ Configure Cloudflare, FREE Let's Encrypt SSL/TLS certificate, NGINX and Apache w
 | "sudo snap install md5-console" | Install md5-console |
 | "md5-console -f file.txt" | Returns md5 hash of the file |
 | "md5-console -s "hello" | Returns md5 hash of the String: hello |
+| "shasum file.txt" | SHA-1 Hash: 160 bits|
+| "shasum -a 256 file.txt" | SHA-256 Hash: 256 bits|
+| "shasum -a 512 file.txt" | SHA-512 Hash: 512 bits|
 
